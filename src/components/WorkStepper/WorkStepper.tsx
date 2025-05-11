@@ -5,13 +5,14 @@ import qd from "../../../public/webImages/qd.webp";
 import ahds from "../../../public/webImages/ahds.webp";
 import hrc from "../../../public/webImages/hrc.webp"; // Update your image imports
 import { motion } from "framer-motion";
+import type { StaticImageData } from "next/image";
 
 interface Step {
   title: string;
   company: string;
   description: string[];
   date: string;
-  image: string;
+  image: string | StaticImageData;
 }
 
 const steps: Step[] = [

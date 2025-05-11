@@ -1,9 +1,10 @@
 import Image from "next/image";
+import type { StaticImageData } from "next/image";
 
 interface EducationCardProps {
   date: string;
-  calendar: string;
-  uniLogo: string;
+  calendar: string | StaticImageData;
+  uniLogo: string | StaticImageData;
   title: string;
   lowerText: string;
 }
