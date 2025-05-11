@@ -1,7 +1,9 @@
 "use client";
 
 import Image from "next/image";
-import { ahds, hrc, qd } from "@/data/images"; // Update your image imports
+import qd from "../../../public/webImages/qd.webp";
+import ahds from "../../../public/webImages/ahds.webp";
+import hrc from "../../../public/webImages/hrc.webp"; // Update your image imports
 import { motion } from "framer-motion";
 
 interface Step {

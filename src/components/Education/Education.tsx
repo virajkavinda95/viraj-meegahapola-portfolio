@@ -1,7 +1,11 @@
 "use client";
 
-import { cal, esoft, kul, pearson } from "@/data/images";
 import EducationCard from "./components/EducationCard";
+
+import cal from "../../../public/webImages/cal.webp";
+import kul from "../../../public/webImages/kul.webp";
+import pearson from "../../../public/webImages/pearson.webp";
+import esoft from "../../../public/webImages/esoft.webp";
 
 export default function Education() {
   return (

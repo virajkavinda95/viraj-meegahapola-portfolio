@@ -1,6 +1,7 @@
 "use client";
 
-import { bgOne, hero } from "@/data/images";
+import bgOne from "../../public/webImages/bgOne.webp";
+import hero from "../../public/webImages/hero.webp";
 import Image from "next/image";
 
 export default function HeroBanner() {
