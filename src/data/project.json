@@ -28,6 +28,13 @@
         "uri":"https://quicklease.ae/"
     },
     {
+        "image":"./webImages/projects/luxury.PNG",
+        "title":"Quicklease Luxury Cars",
+        "desc":"Quick Lease Luxury Car Rentals offers a premium selection of high-end vehicles in Dubai, catering to both residents and tourists seeking a luxurious driving experience.",
+        "tech":"NextJS, ContextAPI, Laravel, ReactJS, Digital Ocean, MySQL, Docker",
+        "uri":"https://luxurycars.quicklease.ae/"
+    },
+    {
         "image":"./webImages/projects/luai.PNG",
         "title":"LUAI Car Rental",
         "desc":"Luai Alkhatib Car Rental is a top-rated car rental service based in Dubai, offering a diverse fleet of vehicles to cater to various customer needs.",
