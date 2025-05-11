@@ -31,7 +31,8 @@ export default function HeroBanner() {
 
             <div>
               <h1 className="text-xl md:text-[4.5rem] font-bold leading-tight text-white">
-                Hi! I'm <span className="text-[#007EE5]">Viraj</span> <br />
+                Hi! I&apos;m <span className="text-[#007EE5]">Viraj</span>{" "}
+                <br />
                 <span className="text-white">Meegahapola</span>
               </h1>
 

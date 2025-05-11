@@ -11,7 +11,7 @@ interface Step {
   company: string;
   description: string[];
   date: string;
-  image: any;
+  image: string;
 }
 
 const steps: Step[] = [

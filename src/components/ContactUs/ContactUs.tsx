@@ -5,8 +5,6 @@ import React from "react";
 import { FaGithub, FaLinkedin, FaXTwitter } from "react-icons/fa6";
 
 const ContactUs = () => {
-  const year = new Date();
-
   return (
     <footer className="w-full bg-[#1b1e24] pt-28 relative z-10" id="contact">
       <div className="absolute top-32 right-[300px] w-32 h-32 sm:w-55 sm:h-55 blur-[5rem] bg-[#007EE5] -z-10 rounded-full"></div>
