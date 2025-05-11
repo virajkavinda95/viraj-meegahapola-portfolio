@@ -1,11 +1,27 @@
-export const hero:string = require("../../public/webImages/hero.webp")
-export const ahds:string = require("../../public/webImages/ahds.webp")
-export const bgOne:string = require("../../public/webImages/bgOne.webp")
-export const bgtwo:string = require("../../public/webImages/bgtwo.webp")
-export const cal:string = require("../../public/webImages/cal.webp")
-export const esoft:string = require("../../public/webImages/esoft.webp")
-export const hrc:string = require("../../public/webImages/hrc.webp")
-export const kul:string = require("../../public/webImages/kul.webp")
-export const pearson:string = require("../../public/webImages/pearson.webp")
-export const qd:string = require("../../public/webImages/qd.webp")
-export const blogImage:string = require("../../public/webImages/blogs/git.webp")
+// src/lib/images.ts
+
+import hero from "../../public/webImages/hero.webp";
+import ahds from "../../public/webImages/ahds.webp";
+import bgOne from "../../public/webImages/bgOne.webp";
+import bgtwo from "../../public/webImages/bgtwo.webp";
+import cal from "../../public/webImages/cal.webp";
+import esoft from "../../public/webImages/esoft.webp";
+import hrc from "../../public/webImages/hrc.webp";
+import kul from "../../public/webImages/kul.webp";
+import pearson from "../../public/webImages/pearson.webp";
+import qd from "../../public/webImages/qd.webp";
+import blogImage from "../../public/webImages/blogs/git.webp";
+
+export {
+  hero,
+  ahds,
+  bgOne,
+  bgtwo,
+  cal,
+  esoft,
+  hrc,
+  kul,
+  pearson,
+  qd,
+  blogImage
+};
