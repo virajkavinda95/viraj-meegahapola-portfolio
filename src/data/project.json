@@ -1,0 +1,86 @@
+[
+    {
+        "image":"./webImages/projects/raalc.PNG",
+        "title":"Raalc Law Firm",
+        "desc":"RAALC Law Firm, headquartered in Dubai, UAE, provides expert legal services across litigation, corporate law, real estate, and more.",
+        "tech":"NextJS, ContextAPI, Laravel, ReactJS, AWS, MySQL, Firebase",
+        "uri":"https://www.raalc.ae/"
+    },
+    {
+        "image":"./webImages/projects/hala.PNG",
+        "title":"Hala Drive",
+        "desc":"Hala Drive is a trusted car rental company based in Dubai, offering a wide range of vehicles to suit various needs and budgets. From economical options like the Nissan Sunny to luxury models such as the Mercedes C200 and Nissan Patrol, their fleet caters to both short-term visitors and long-term residents.",
+        "tech":"Laravel, Blade PHP, MySQL, AlmaLinux",
+        "uri":"https://haladrive.ae/"
+    },
+    {
+        "image":"./webImages/projects/falcon.PNG",
+        "title":"Falcon Drive",
+        "desc":"Falcon Drive is a leading car rental service based in Dubai, offering a diverse fleet of vehicles ranging from budget-friendly compacts to luxury models. With flexible rental options—including daily, weekly, and monthly plans—Falcon Drive caters to both residents and visitors seeking reliable and affordable transportation.",
+        "tech":"Laravel, Blade PHP, MySQL, AlmaLinux",
+        "uri":"https://falcondrive.ae/"
+    },
+    {
+        "image":"./webImages/projects/quicklease.PNG",
+        "title":"Quicklease",
+        "desc":"Quick Lease Car Rental is a reputable car rental company based in Dubai, United Arab Emirates, offering a diverse fleet of over 100 vehicles from leading brands such as Chevrolet, Kia, Peugeot, and Nissan.",
+        "tech":"NextJS, ContextAPI, Laravel, ReactJS, Digital Ocean, MySQL, Docker",
+        "uri":"https://quicklease.ae/"
+    },
+    {
+        "image":"./webImages/projects/luai.PNG",
+        "title":"LUAI Car Rental",
+        "desc":"Luai Alkhatib Car Rental is a top-rated car rental service based in Dubai, offering a diverse fleet of vehicles to cater to various customer needs.",
+        "tech":"NextJS, ContextAPI, Laravel, ReactJS, MySQL, AlmaLinux",
+        "uri":"https://luaicarrentals.com/"
+    },
+    {
+        "image":"./webImages/projects/futturesport.png",
+        "title":"Future Sport UAE",
+        "desc":"Future Sports UAE is a premier provider of sports equipment, facility management, and training services based in Dubai.",
+        "tech":"NextJS, ContextAPI, Laravel, ReactJS, AlmaLinux, MySQL",
+        "uri":"https://futuresportuae.com/"
+    },
+    {
+        "image":"./webImages/projects/shiny.PNG",
+        "title":"Shiny Surface",
+        "desc":"Shiny Surface Cleaning and Technical Services LLC is a trusted home services provider based in Dubai, UAE, offering a comprehensive range of cleaning and maintenance solutions for residential and commercial clients.",
+        "tech":"VueJS, Laravel, Blade PHP, AlmaLinux, MySQL, Google API",
+        "uri":"https://shinysurface.ae/"
+    },
+    {
+        "image":"./webImages/projects/aahaas.PNG",
+        "title":"Aahaas E-Commerce",
+        "desc":"Aahaas is an all-in-one lifestyle and travel app designed to simplify and enrich your travel experiences. Whether you're planning a vacation, booking flights and hotels, or exploring local activities, Aahaas offers a comprehensive platform to manage all aspects of your journey seamlessly.",
+        "tech":"ReactJS, Laravel, Digital Ocean, Docker, MySQL, Firebase",
+        "uri":"https://www.aahaas.com/"
+    },
+    {
+        "image":"./webImages/projects/cambri.PNG",
+        "title":"CRM Cambridge School of Colombo",
+        "desc":"Cambridge School of Colombo, established in 1999, offers both National and Edexcel curricula and serves students from Play Group up to A-Levels.",
+        "tech":"ReactJS, Laravel, Digital Ocean, Docker, MySQL, Firebase",
+        "uri":"http://notify.cambridgeschool.lk/"
+    },
+    {
+        "image":"./webImages/projects/ahds.PNG",
+        "title":"Apple Holidays Payment Portal",
+        "desc":"For precise information regarding payment options, it's advisable to contact Apple Holidays directly. You can reach them through their official website: appleholidays.com.",
+        "tech":"ReactJS, Laravel, Digital Ocean, Docker, MySQL, Firebase",
+        "uri":"https://github.com/virajkavinda95/paymentv2_appleholidays"
+    },
+    {
+        "image":"./webImages/projects/news.PNG",
+        "title":"Stepzen News App (E-Challenge)",
+        "desc":"No description",
+        "tech":"NextJS, Vercel, Stepzen API, GraphQL",
+        "uri":"https://nextjs-news-app-henna.vercel.app/"
+    },
+    {
+        "image":"./webImages/projects/amazonc.PNG",
+        "title":"Amazone Clone (E-Challenge)",
+        "desc":"No description",
+        "tech":"ReactJS, Firebase, Amazon API, React Redux",
+        "uri":"https://e-challenge-8cd99.firebaseapp.com/"
+    }
+]
