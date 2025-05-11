@@ -16,6 +16,7 @@ export default function HeroBanner() {
           className="object-cover"
           priority
         />
+        {/* Language switch removed */}
         <div className="absolute inset-0 bg-black opacity-60 z-10"></div>
       </div>
 

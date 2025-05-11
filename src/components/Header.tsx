@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import LanguageSwitcher from "./LanguageSwitch";
 import Link from "next/link";
 
 const Header = () => {
@@ -52,9 +51,6 @@ const Header = () => {
               <li className="cursor-pointer bg-[#D9D9D9] hover:bg-[#c9c9c9] rounded-full px-6 py-3 text-black">
                 <Link href="#contact">Get in touch</Link>
               </li>
-              {/* <li className="cursor-pointer">
-                <LanguageSwitcher />
-              </li> */}
             </ul>
           </nav>
         </div>
@@ -87,9 +83,6 @@ const Header = () => {
               <li onClick={() => setIsMenuOpen(false)}>About</li>
               <li onClick={() => setIsMenuOpen(false)}>Blogs</li>
               <li onClick={() => setIsMenuOpen(false)}>Get in touch</li>
-              <li>
-                <LanguageSwitcher />
-              </li>
             </ul>
           </motion.nav>
         )}
