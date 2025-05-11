@@ -1,6 +1,5 @@
 "use client";
 
-import { projectOne } from "@/data/images";
 import ProjectCard from "./components/ProjectCard";
 import { motion } from "framer-motion";
 import projects from "@/data/project.json";

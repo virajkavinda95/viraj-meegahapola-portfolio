@@ -4,7 +4,6 @@ import ContactUs from "@/components/ContactUs/ContactUs";
 import Education from "@/components/Education/Education";
 import Header from "@/components/Header";
 import HeroBanner from "@/components/HeroBanner";
-import LanguageSwitch from "@/components/LanguageSwitch";
 import Project from "@/components/Projects/Projects";
 import WorkStepper from "@/components/WorkStepper/WorkStepper";
 

@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Eye } from "lucide-react";
 import Link from "next/link";
 
