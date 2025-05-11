@@ -1,5 +1,4 @@
 import About from "@/components/About/About";
-import Blog from "@/components/Blog/Blog";
 import ContactUs from "@/components/ContactUs/ContactUs";
 import Education from "@/components/Education/Education";
 import Header from "@/components/Header";
